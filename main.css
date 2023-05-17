@@ -1,0 +1,51 @@
+*{
+   margin: 0 ;
+   padding: 10px;
+  background-color: #e5e5fd;
+}
+.container{
+   position: relative;
+   max-width: 800px;
+   padding: 0;
+   left: 300px;
+   right: 200px;
+   
+
+
+}
+.image{
+   width: 200px;
+   height: 200px;
+   border-radius: 400px;
+}
+.data{
+   background-color: red;
+}
+.container-data{
+   position: absolute;
+   right: -15px;
+   top: 155px;
+   text-align: right;
+   line-height: 7px;
+  
+}
+.data-2{
+   text-align: justify;
+   position: relative;
+  
+}
+.data-1{
+   font-size: 49px;
+}
+.bio {
+  position: relative;
+  right: 20px;
+}
+.li{
+   position: relative;
+   right: -30px;
+}
+.Read{
+   position: relative;
+   left: 500px;
+}
